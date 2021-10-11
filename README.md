@@ -1,6 +1,6 @@
 # Math with Python
 
-### Activity notebooks for [codeweek.eu](https://codeweek.eu/) 2020.
+### Activity notebooks for [codeweek.eu](https://codeweek.eu/).
 
 Students are introduced to python for doing maths and plotting functions with [matplotlib](https://matplotlib.org/).
 
